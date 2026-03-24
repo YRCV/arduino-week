@@ -1,21 +1,15 @@
 {
-  "name": "vitepress-project",
-  "private": true,
+  "name": "arduino-week-docs",
+  "version": "1.0.0",
+  "description": "IEEE Student Branch Arduino Week Workshop Series",
   "type": "module",
   "scripts": {
-    "dev": "vitepress dev docs",
-    "build": "vitepress build docs",
-    "serve": "vitepress serve docs"
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
   },
   "devDependencies": {
-    "vue": "3.2.44",
-    "vitepress": "1.0.0-alpha.28"
-  },
-  "pnpm": {
-    "peerDependencyRules": {
-      "ignoreMissing": [
-        "@algolia/client-search"
-      ]
-    }
+    "vitepress": "latest",
+    "vue": "latest"
   }
 }
