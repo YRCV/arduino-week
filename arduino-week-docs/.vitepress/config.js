@@ -24,7 +24,8 @@ export default defineConfig({
         items: [
           { text: 'Day 1: Intro to Arduino & Basics', link: '/day-1' },
           { text: 'Day 2: Sensors & Inputs', link: '/day-2' },
-          { text: 'Day 3: Motors & Actuators', link: '/day-3' }
+          { text: 'Day 3: Motors & Actuators', link: '/day-3' },
+          { text: 'Day 4: IEEE x AP-S Arduino Antenna', link: '/day-4' }
         ]
       },
       {
