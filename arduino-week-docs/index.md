@@ -15,7 +15,7 @@ features:
 
 ## Welcome to Arduino Week!
 
-Welcome to the **IEEE Student Branch Arduino Week**. This is a comprehensive 3-day workshop series specially tailored for NJIT engineering students looking to get hands-on experience with microcontrollers.
+Welcome to the **IEEE Student Branch Arduino Week**. This is a comprehensive 4-day workshop series specially tailored for NJIT students looking to get hands-on experience with microcontrollers.
 
 ### What You Will Learn
 - **Hardware Basics:** Understanding breadboards, components, and wiring.
@@ -24,8 +24,9 @@ Welcome to the **IEEE Student Branch Arduino Week**. This is a comprehensive 3-d
 - **Troubleshooting:** Identifying and fixing common hardware and code issues.
 
 ### Schedule
-* **[Day 1](./day-1.md):** Introduction to Arduino, basic wiring, and blinking an LED.
-* **[Day 2](./day-2.md):** Reading data from sensors and utilizing serial communication.
-* **[Day 3](./day-3.md):** Controlling motors and creating a reactive system.
+* **[Day 1](./day-1.md):** Arduino Basics, programming fundamentals, and digital I/O.
+* **[Day 2](./day-2.md):** Ultrasonic Security System, reading sensors, and logic implementation.
+* **[Day 3](./day-3.md):** Mini Piano, generating sounds, and multi-input systems.
+* **[Day 4](./day-4.md):** IEEE x AP-S Arduino Antenna, RF foundations, and measurements.
 
 Ready to dive in? Head over to the [Getting Started](./getting-started.md) guide to set up your environment!

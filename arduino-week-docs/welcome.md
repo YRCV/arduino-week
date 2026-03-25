@@ -22,11 +22,37 @@ You'll learn:
 ### Day 2: Ultrasonic Security System
 **Focus:** Proximity sensing and system integration
 
+You'll learn:
+- Working with ultrasonic distance sensors
+- Using buzzers for audio output
+- Converting sensor readings to useful measurements
+- Creating state-based logic (alarm modes)
+- Storing data permanently with EEPROM
+
+**Project:** Security system with distance-triggered alarm and "evil mode"
+
+
 ### Day 3: Mini Piano
 **Focus:** Sound synthesis and multiple button inputs
 
+You'll learn:
+- Generating tones and frequencies with Arduino
+- Working with multiple button inputs
+- Understanding musical notes as frequencies
+- Creating interactive sound projects
+
+**Project:** A 7-key piano that plays musical notes (C to B) through a buzzer
+
+
 ### Day 4: IEEE x AP-S Arduino Antenna
 **Focus:** RF foundations and antenna measurements
+
+You'll learn:
+- Basics of RF (Radio Frequency) and antenna concepts
+- Extracting and interpreting RF measurements using an Arduino
+- Practical physics behind RF signals
+
+**Project:** Custom Arduino-based antenna measurement and analysis tool
 
 ---
 
@@ -75,6 +101,12 @@ Time: 2:30 PM - 4:00 PM
 
 ---
 
+## How to Use These Docs
+
+- Follow along during live workshops
+- Reference material for circuit diagrams and code
+- Self-paced review if you miss a session
+
 <div style="background: var(--vp-c-bg-soft); padding: 1.5rem; border-radius: 8px; margin: 2rem 0;">
 
 ### Pro Tip
@@ -87,5 +119,5 @@ Don't worry about understanding everything perfectly the first time. Arduino is 
 
 **Let's build something awesome together!**
 
+
 Presented by **IEEE NJIT Student Branch**
-Docs by Yahil Corcino
