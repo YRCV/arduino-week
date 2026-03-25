@@ -357,7 +357,7 @@ long microsecondsToCentimeters(long microseconds) {
 }
 ```
 
-📥 **[Download basic code: day2.ino](/code/day2.ino)**
+<!-- 📥 **[Download basic code: day2.ino](/code/day2.ino)** -->
 
 ---
 
