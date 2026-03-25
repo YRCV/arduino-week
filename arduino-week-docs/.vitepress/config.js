@@ -4,7 +4,11 @@ export default defineConfig({
   title: "Arduino Week",
   description: "3-day hands-on workshop series for NJIT engineering students",
   // base:
+  head: [
+    ['link', { rel: 'icon', href: '/images/ieee_logo_icon.png' }]
+  ],
   themeConfig: {
+    logo: '/images/NJIT_IEEE_color_vertical.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Getting Started', link: '/getting-started' },

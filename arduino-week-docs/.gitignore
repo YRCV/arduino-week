@@ -4,3 +4,4 @@ package-lock.json
 .vitepress/cache
 .vitepress/.temp
 .vitepress/out 
+.DS_Store
