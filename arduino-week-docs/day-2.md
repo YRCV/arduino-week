@@ -33,7 +33,7 @@ The HC-SR04 measures distance using sound waves, similar to how bats navigate.
 
 **Important:** The sensor measures the **round trip** time (to the object and back), so we divide by 2 to get the actual distance.
 
-![HC-SR04 Sensor Diagram](placeholder-hcsr04-diagram.png)
+> *[Insert HC-SR04 Sensor Diagram here]*
 
 **Pinout:**
 - **VCC**: Connect to 5V
@@ -94,7 +94,7 @@ This gives us easy access to power throughout the circuit.
 2. Connect **(-) pin** to Ground rail
 3. Connect **(+) pin** to **Digital Pin 7**
 
-![Buzzer Wiring Diagram](placeholder-buzzer-wiring.png)
+> *[Insert Buzzer Wiring Diagram here]*
 
 **Safety Tip:** The buzzer can be LOUD. During testing, either:
 - Keep it unplugged and use `Serial.println("Buzzer On");` as a placeholder
@@ -139,7 +139,7 @@ Now let's add the distance sensor.
 4. Connect **Trig** to **Digital Pin 3**
 5. Connect **Echo** to **Digital Pin 4**
 
-![HC-SR04 Wiring Diagram](placeholder-ultrasonic-wiring.png)
+> *[Insert HC-SR04 Wiring Diagram here]*
 
 ---
 
@@ -743,7 +743,7 @@ long microsecondsToCentimeters(long microseconds) {
 | Reset Button | 5 | Clear EEPROM settings |
 | Evil Mode Button | 6 | Disarm alarm |
 
-![Complete Circuit Diagram](placeholder-complete-circuit.png)
+> *[Insert Complete Circuit Diagram here]*
 
 ---
 

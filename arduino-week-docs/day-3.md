@@ -29,7 +29,7 @@ The mini piano is beautifully simple:
 - Low notes = slower vibrations (lower frequency)
 - High notes = faster vibrations (higher frequency)
 
-![Piano Key Diagram](placeholder-piano-keys.png)
+> *[Insert Piano Key Diagram here]*
 
 ### Musical Notes as Frequencies
 
@@ -72,7 +72,7 @@ Let's prepare the breadboard:
 1. Connect **GND** from Arduino to the **negative rail** (ground) on breadboard
 2. Connect **5V** from Arduino to the **positive rail** on breadboard
 
-![Breadboard Power Setup](placeholder-breadboard-power.png)
+> *[Insert Breadboard Power Setup here]*
 
 ---
 
@@ -84,7 +84,7 @@ Now let's add all seven buttons in a row:
 2. Make sure each button straddles the middle gap of the breadboard
 3. Arrange them in order (this will be your piano keyboard!)
 
-![Button Placement](placeholder-button-placement.png)
+> *[Insert Button Placement here]*
 
 **Tip:** Place them in a line to make it feel like a real piano keyboard.
 
@@ -101,7 +101,7 @@ For **each button:**
 
 This creates a pull-down resistor configuration, just like in Day 1!
 
-![Button Ground Wiring](placeholder-button-ground.png)
+> *[Insert Button Ground Wiring here]*
 
 ---
 
@@ -120,7 +120,7 @@ Now let's connect each button to its own digital pin:
 
 Connect a wire from the **opposite side** of each button to its corresponding pin.
 
-![Button Pin Connections](placeholder-button-pins.png)
+> *[Insert Button Pin Connections here]*
 
 **Why these pins?** They're sequential and easy to remember. Plus, we're saving pins 0-1 (used for Serial) and keeping higher pins available for other components.
 
@@ -134,7 +134,7 @@ Finally, let's add the buzzer:
 2. Connect **(-) negative pin** to **GND** rail
 3. Connect **(+) positive pin** to **Pin 11**
 
-![Buzzer Wiring](placeholder-buzzer-wiring.png)
+> *[Insert Buzzer Wiring here]*
 
 **Complete Circuit Overview:**
 - 7 buttons on pins 4-10
@@ -142,7 +142,7 @@ Finally, let's add the buzzer:
 - All buttons grounded through pull-down resistors
 - Power and ground rails distributed
 
-![Complete Circuit Diagram](placeholder-complete-piano.png)
+> *[Insert Complete Circuit Diagram here]*
 
 ---
 
@@ -601,7 +601,7 @@ You can add these to create a 2-octave piano with more buttons!
 
 All buttons also connect to 5V and GND through pull-down resistors.
 
-![Complete Wiring Reference](placeholder-complete-wiring.png)
+> *[Insert Complete Wiring Reference here]*
 
 ---
 
