@@ -2,7 +2,17 @@
 layout: home
 
 hero:
-  name: "Arduino Week"
+  name: "<span style='font-size: 0.65em; color: var(--vp-c-text-1); display: block; margin-bottom: 0; line-height: 1.1; font-weight: 600; letter-spacing: 1px;'>IEEE NJIT Presents:</span>Arduino Week 2026"
+  image:
+    src: /images/hh.png
+    alt: Arduino Week Banner
+  actions:
+  - theme: brand
+    text: Get Started
+    link: /welcome
+  - theme: alt
+    text: View Schedule
+    link: /welcome#workshop-schedule
 
 features:
   - title: Beginner Friendly
@@ -30,3 +40,24 @@ Welcome to the **IEEE Student Branch Arduino Week**. This is a comprehensive 4-d
 * **[Day 4](./day-4.md):** IEEE x AP-S Arduino Antenna, RF foundations, and measurements.
 
 Ready to dive in? Head over to the [Getting Started](./getting-started.md) guide to set up your environment!
+
+<style>
+:root {
+  --vp-home-hero-image-background-image: none; /* Disables default glowing orb */
+}
+.VPHero .image {
+  margin: 0 auto;
+  width: 100% !important;
+  max-width: 300px !important;
+  transform: scale(1.3);
+}
+.VPHero .image-src {
+  width: 100% !important;
+  max-width: 100% !important;
+  border-radius: 5px;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.15);
+}
+@media (max-width: 768px) {
+  .VPHero .image { transform: scale(1); margin-top: 2rem; }
+}
+</style>

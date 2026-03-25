@@ -1,5 +1,7 @@
 # Welcome to Arduino Week
 
+<img src="/images/hh.png" alt="Arduino Week Banner" style="border-radius: 8px; margin: 1rem 0 2rem 0; width: 100%; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
+
 Welcome to the Arduino Week documentation! Over the next four days, you'll go from knowing nothing about microcontrollers to building your own interactive electronic projects.
 
 This workshop series is designed to be **hands-on, practical, and beginner-friendly**. Each day builds on the previous one, taking you through a carefully structured learning path.
