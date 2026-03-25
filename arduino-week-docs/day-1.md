@@ -257,7 +257,7 @@ void loop() {
 }
 ```
 
-**[Download complete code: day1.ino](../code/day1.ino)**
+**[Download complete code: day1.ino](/code/day1.ino)**
 
 ---
 

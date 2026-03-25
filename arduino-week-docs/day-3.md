@@ -382,7 +382,7 @@ void loop() {
 }
 ```
 
-📥 **[Download complete code: day3.ino](../code/day3.ino)**
+📥 **[Download complete code: day3.ino](/code/day3.ino)**
 
 **Congratulations, you're now Beethoven!**
 

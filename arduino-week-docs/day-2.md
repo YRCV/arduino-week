@@ -357,7 +357,7 @@ long microsecondsToCentimeters(long microseconds) {
 }
 ```
 
-📥 **[Download basic code: day2-basic.ino](../code/day2-basic.ino)**
+📥 **[Download basic code: day2.ino](/code/day2.ino)**
 
 ---
 
@@ -725,7 +725,7 @@ long microsecondsToCentimeters(long microseconds) {
 }
 ```
 
-**[Download complete code: day2-advanced.ino](../code/day2-advanced.ino)**
+<!-- **[Download complete code: day2-advanced.ino](../code/day2-advanced.ino)** -->
 
 ---
 

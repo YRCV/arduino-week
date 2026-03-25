@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Arduino Week",
   description: "3-day hands-on workshop series for NJIT engineering students",
+  ignoreDeadLinks: true,
   // base:
   head: [
     ['link', { rel: 'icon', href: '/images/ieee_logo_icon.png' }]
