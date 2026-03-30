@@ -16,7 +16,7 @@ Welcome to Arduino Week Day 1! Today, you'll learn the fundamentals of Arduino p
 
 The Arduino Uno board has several types of pins that serve different purposes:
 
-![Arduino Uno Pinout Diagram](/images/pinout.jpg)
+![Arduino Uno Pinout Diagram](public/images/pinout.jpg)
 
 ### Power Pins
 - **IOREF**: Reference voltage for the board
@@ -310,7 +310,7 @@ void setup() {
 }
 
 void loop() {
-  // Your challenge code goes here!
+//
 }
 ```
 
