@@ -16,7 +16,7 @@ Welcome to Arduino Week Day 1! Today, you'll learn the fundamentals of Arduino p
 
 The Arduino Uno board has several types of pins that serve different purposes:
 
-![Arduino Uno Pinout Diagram](public/images/pinout.jpg)
+![Complete Circuit Diagram](/images/day1.png)
 
 ### Power Pins
 - **IOREF**: Reference voltage for the board
@@ -126,7 +126,7 @@ LEDs are **diodes**, which means they only allow current to flow in one directio
 4. Connect the other end of the resistor to **GND**
 
 
-![Day 1](/images/day1.PNG)
+![Day 1](/images/day1.png)
 
 **Troubleshooting Tip:** If your LED doesn't light up, try flipping it around - you might have the legs reversed!
 
@@ -142,8 +142,6 @@ Push buttons have four pins but work as two pairs. When you press the button, it
 3. On the same side, connect a **1K ohm resistor** from the button pin to **GND** (this is a pull-down resistor)
 4. Connect the opposite side of the button to a digital pin (we'll use pin 3)
 
-
-![Day 1](/images/day1.PNG)
 
 The pull-down resistor ensures the pin reads LOW when the button isn't pressed, and HIGH when it is pressed.
 
