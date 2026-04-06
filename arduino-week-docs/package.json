@@ -4,6 +4,8 @@
   "description": "IEEE Student Branch Arduino Week Workshop Series",
   "type": "module",
   "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
